@@ -22,5 +22,5 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulkhan&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkhan&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamilkhan421&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamilkhan421&layout=compact)
