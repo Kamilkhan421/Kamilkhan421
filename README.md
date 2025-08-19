@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Deep Learning, Generative AI**
 - 👯 I’m looking for opportunities in **Data Science / AI / SWE**
 - 💬 Ask me about **Python, ML, DSA**
-- 📫 Reach me at: **yourmail@example.com**
+- 📫 Reach me at: **abdulkamilkhan16@gmail.com**
 - ⚡ Fun fact: *I love building real-time apps*
 
 ## 📌 Connect with me
